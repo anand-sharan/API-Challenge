@@ -7,8 +7,8 @@ Whether financial, political, or social -- data's true power lies in its ability
 ## Charts
 ## Gmaps Heat Map plot
 
-(/Images/HotelHeatMap.png)
+![Weather](/Images/HotelHeatMap.png)
 
 ## Gmaps Hotel and Heat Map plot
 
-(/Images/Heat_Map.png)
+![Weather](/Images/Heat_Map.png)
